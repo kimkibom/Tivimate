@@ -86,7 +86,8 @@ http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg" group-title="Movie & Series", 228. Warner TV
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
+#https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704632.jpeg" group-title="Movie & Series", 232. Paramount Channel
 #http://203.154.177.124:8899/live/ch3/playlist.m3u8
@@ -110,30 +111,37 @@ http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg" group-title="Movie & Series", Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
-https://dootvgun.com/hbotv/hbored/playlist.m3u8
-#https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg" group-title="Movie & Series", Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
-https://dootvgun.com/hbotv/hbomax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg" group-title="Movie & Series", HBO​ HD
-http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg" group-title="Movie & Series", HBO HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
 #http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
 #https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg" group-title="Movie & Series", HBO Hits
-http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
+#http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
 #https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg" group-title="Movie & Series", HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
-https://dootvgun.com/hbotv/hbofam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg" group-title="Movie & Series", HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
-https://dootvgun.com/hbotv/hbosig/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704516.jpeg" group-title="Movie & Series", FOX Life
 http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
@@ -183,8 +191,8 @@ https://live600.vkuserlive.com/613503/live/0/b4TE9hRDg2ck1sPHF2MjYxMzY-Nzo_ezE/p
 https://doofootball.livestream-cdn.com/iptv/sd-inside.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704538.jpeg" group-title="Entertainment", 336. AXN HD
-#http://ip2121.com:8081/live2/AXN_Y/chunks.m3u8
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
+#https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704527.jpeg" group-title="Entertainment", 337. Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
@@ -195,15 +203,15 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704657.jpeg" group-title="Entertainment", 340. True X-zyte HD
 https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
+#http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704667.jpeg" group-title="Entertainment", 346. True Music HD
 http://160.119.77.116:8081/iptv/sd-tmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png" group-title="Entertainment", 353. BBC Life Style
-https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
 #https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
-#https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-mtvasia.png" group-title="Entertainment", MTV ASIA
 #http://203.154.177.124:8899/live/ch4/playlist.m3u8
