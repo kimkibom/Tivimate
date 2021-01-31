@@ -24,19 +24,19 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/13/cf42eb70-64e1-11ea-8884-dfd81909e81a_320.png" group-title="Digital TV", NEW TV
-https://www.dailymotion.com/embed/video/x7kx5i7?autoplay=1
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/952c9806-c7db-42d0-9647-415a643375b3.png" group-title="Digital TV", NATION TV
-https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSfv06XINUB8LlaqHOzcnVrU)/dm/3/x6eoldf/d/live-3.m3u8
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png" group-title="Digital TV", Workpoint TV
-https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8qXftboVQpUTa5GRsbWTvOQ)/dm/3/x6g9qjj/s/live-3.m3u8
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png" group-title="Digital TV", True4U
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png" group-title="Digital TV", GMM25
-https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_V-7g390M9str1_pentbwj0)/dm/3/x6rz4t7/s/live-3.m3u8
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png" group-title="Digital TV", CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
