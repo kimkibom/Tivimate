@@ -5,89 +5,68 @@
 # =======================================================
 #Digital TV 1-36
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png" group-title="Digital TV", 1. TV5 HD1
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png" group-title="Digital TV", CH5 HD
 https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
-#http://110.170.117.27:1935/tv5hd1/vdo/chunklist_w1762932717.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/NBT.png" group-title="Digital TV", 2. NBT
-#http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#http://122.155.92.8:1935/live/ch1_L.sdp/playlist.m3u8
-https://edge6a.v2h-cdn.com/m2i3/NBT.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="Digital TV", NBT 2 HD
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/thaiPBS.png" group-title="Digital TV", 3. Thai PBS
-#http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
-#https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="Digital TV", Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/ALTV.png" group-title="Digital TV", 4. ALTV
+#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/ALTV.png" group-title="Digital TV", ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/TPTV.png" group-title="Digital TV", 10. TPTV
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="Digital TV", TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" group-title="Digital TV", 16. TNN16
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="Digital TV", TNN16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/NEW18.png" group-title="Digital TV", 18. NEW TV
-#https://www.livedoomovie.com/02_NEW_480p/chunklist.m3u8
-https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png" group-title="Digital TV", NEW TV
+https://stream-02.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL5453Kvx7sC3lqplykpP8DiQ0)/dm/3/x7kx5i7/s/live-4.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/nationchannel.png" group-title="Digital TV", 22. NATION TV
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="Digital TV", NATION TV
+https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSfv06XINUB8LlaqHOzcnVrU)/dm/3/x6eoldf/d/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/workpoint.png" group-title="Digital TV", 23. Workpoint TV
-#http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Digital TV", Workpoint TV
+https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8qXftboVQpUTa5GRsbWTvOQ)/dm/3/x6g9qjj/s/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/TRUE-4-U.png" group-title="Digital TV", 24. True4U
-#http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="Digital TV", True4U
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/GMMChannel.png" group-title="Digital TV", 25. GMM Channel
-#http://183.182.100.184/live/mcothd/playlist.m3u8
-https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="Digital TV", GMM25
+https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_V-7g390M9str1_pentbwj0)/dm/3/x6rz4t7/s/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/ch8_65x66.png" group-title="Digital TV", 27. CH8
-#http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
-#https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="Digital TV", CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/Mono-TV.png" group-title="Digital TV", 29. Mono 29
-#https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#https://edge6a.v2h-cdn.com/m2i1/Mono.stream_720p/playlist.m3u8
-#https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w305237673.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="Digital TV", MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1856092824.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/ch9.png" group-title="Digital TV", 30. MCOT HD
-#http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
-https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+#EXTINF:-1 tvg-logo="http://coathailand.org/wp-content/uploads/2016/04/dKXRd.png" group-title="Digital TV", MONO Plus
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/one-HD.png" group-title="Digital TV", 31. ONE
-#http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
-https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
-#https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png" group-title="Digital TV", MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/Thairath-TV.png" group-title="Digital TV", 32. Thairath TV
-#https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-#http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="Digital TV", ONE HD
+http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png" group-title="Digital TV", 33. 3 HD
-#http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
-https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="Digital TV", Thairath TV
+http://live.thairath.co.th/trtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/AMARIN-TV-HD.png" group-title="Digital TV", 34. Amarin TV HD
-https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png" group-title="Digital TV", 3 HD
+https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/chunklist_w1106671850.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/BBTV-CH7.png" group-title="Digital TV", 35. 7 HD
-#http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png" group-title="Digital TV", Amarin TV HD
+https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1612131130&x_ark_path_prefix=%2Flive%2F&x_ark_signature=8LiIcF9WEGhutCMHLJ8zTA
 
-#EXTINF:-1 tvg-logo="http://www.totiptv.com/Product/Channel/images/PPTV-HD.png" group-title="Digital TV", 36. PPTV HD
-#http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
-https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="Digital TV", CH7 HD
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Digital TV", PPTV HD
+https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1612121401&x_ark_path_prefix=%2Flive%2F&x_ark_signature=nLS6RX-7kwY0L85gPIavDQ
 
 # =======================================================
 #Movie & Series 222
@@ -195,7 +174,10 @@ http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
 # =======================================================
-#Entertainment 333
+#Entertainment
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1200px-NHK_General_TV_logo.svg.png" group-title="Entertainment", NHK G
+https://live600.vkuserlive.com/613503/live/0/b4TE9hRDg2ck1sPHF2MjYxMzY-Nzo_ezE/playlist.m3u8?extra=v2aNHasPE3qviD7wUa_-pFv_59nAd38boObaq1VrWdHuheQhvMZ7TanrPNy-pDtOPFIHyUKsiV16LG_JGTDOGm5o7DLVvxjlMr7x4pG-OSe6qiQ_U32qlgrj8GUSAb2p_qHcsUFJxQ-kpXfW
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-inside-hd-1.png" group-title="Entertainment", 335. True Inside HD
 https://doofootball.livestream-cdn.com/iptv/sd-inside.stream/playlist.m3u8
