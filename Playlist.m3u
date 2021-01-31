@@ -24,7 +24,7 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/13/cf42eb70-64e1-11ea-8884-dfd81909e81a_320.png" group-title="Digital TV", NEW TV
-https://stream-02.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL5453Kvx7sC3lqplykpP8DiQ0)/dm/3/x7kx5i7/s/live-4.m3u8
+https://www.dailymotion.com/embed/video/x7kx5i7?autoplay=1
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/952c9806-c7db-42d0-9647-415a643375b3.png" group-title="Digital TV", NATION TV
 https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSfv06XINUB8LlaqHOzcnVrU)/dm/3/x6eoldf/d/live-3.m3u8
