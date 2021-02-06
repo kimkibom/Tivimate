@@ -374,9 +374,54 @@ https://cdn6.goprimetime.info/feed/LC8/index.m3u8
 https://cdn6.goprimetime.info/feed/LC32/index.m3u8
 
 # =======================================================
-#Sport 600
+#News 777
 
-#EXTINF:-1 tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png" group-title="Sport", 600. True​ Premie​r Football HD1
+#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/hd-cnn.png" group-title="News", 778. CNN HD
+http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-world-news.png" group-title="News", 780. BBC World News HD
+http://160.119.77.116:8081/iptv/uk-bbc1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-cnbc.png" group-title="News", 781. CNBC
+http://160.119.77.116:8081/iptv/sd-cnbc.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-cctv4.png" group-title="News", 786. CCTV4
+#https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
+https://cdn6.goprimetime.info/feed/LC33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png" group-title="News", 789. Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-deutschewelle.png" group-title="News", 790. DW (Deutsch)
+https://cdn6.goprimetime.info/feed/LC12/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RT_TV.png" group-title="News", 795. Russia Today
+#https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+https://cdn6.goprimetime.info/feed/LC9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-bloomberg.png" group-title="News", Bloomberg TV
+http://160.119.77.116:8081/iptv/sd-bloomberg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Fox_News_TH.png" group-title="News", Fox News (UK)
+http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="News", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-france24.png" group-title="News", France 24 (English)
+#http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+https://cdn6.goprimetime.info/feed/LC34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201708072112041744562745.jpg" group-title="News", CBS NEWS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/576365b1deee1bbd799caae8c445a593bd07c5434b588f52d97c93c29c827297.png" group-title="News", Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+
+# =======================================================
+#Sport
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="Sport", True Premier Football HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png" group-title="Sport", 601. True​ Premie​r Football HD2
@@ -483,50 +528,5 @@ https://cdn6.goprimetime.info/feed/LC36/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" group-title="Sport", Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8             
-
-# =======================================================
-#News 777
-
-#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/hd-cnn.png" group-title="News", 778. CNN HD
-http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-world-news.png" group-title="News", 780. BBC World News HD
-http://160.119.77.116:8081/iptv/uk-bbc1hd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-cnbc.png" group-title="News", 781. CNBC
-http://160.119.77.116:8081/iptv/sd-cnbc.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-cctv4.png" group-title="News", 786. CCTV4
-#https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
-https://cdn6.goprimetime.info/feed/LC33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png" group-title="News", 789. Aljazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-deutschewelle.png" group-title="News", 790. DW (Deutsch)
-https://cdn6.goprimetime.info/feed/LC12/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RT_TV.png" group-title="News", 795. Russia Today
-#https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-https://cdn6.goprimetime.info/feed/LC9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-bloomberg.png" group-title="News", Bloomberg TV
-http://160.119.77.116:8081/iptv/sd-bloomberg.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Fox_News_TH.png" group-title="News", Fox News (UK)
-http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="News", Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-france24.png" group-title="News", France 24 (English)
-#http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-https://cdn6.goprimetime.info/feed/LC34/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201708072112041744562745.jpg" group-title="News", CBS NEWS
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/576365b1deee1bbd799caae8c445a593bd07c5434b588f52d97c93c29c827297.png" group-title="News", Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 # =======================================================
