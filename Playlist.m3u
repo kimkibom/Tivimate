@@ -100,8 +100,8 @@ https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
 #Movie & Series
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png" group-title="Movie & Series", True Film HD
-https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
-#http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+#https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png" group-title="Movie & Series", True Film HD 2
 https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
@@ -111,8 +111,8 @@ https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/04_Fox_ACT_Movies.png" group-title="Movie & Series", FOX Action Movies
-https://laos-tech-live.b-cdn.net/hd-foxaction_720/index.m3u8
-#http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+#https://laos-tech-live.b-cdn.net/hd-foxaction_720/index.m3u8
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/05_Fox_Fam_Movies.png" group-title="Movie & Series", FOX Family Movies
@@ -120,117 +120,97 @@ https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
 #https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-cinemax.png" group-title="Movie & Series", Cinemax
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-hbo.png" group-title="Movie & Series", HBO HD
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
 #http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
 #https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-hits.png" group-title="Movie & Series", HBO Hits
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
 #https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-family.png" group-title="Movie & Series", HBO Family
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-signature.png" group-title="Movie & Series", HBO Signature
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-mobile-white-red.png" group-title="Movie & Series", Red by HBO
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
 #http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg" group-title="Movie & Series", FOX Thai HD
-https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
-#http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
-#https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704516.jpeg" group-title="Movie & Series", FOX Life HD
-https://laos-tech-live.b-cdn.net/hd-foxlife_720/index.m3u8
-#http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704538.jpeg" group-title="Entertainment", AXN HD
-http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
-#https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
-#https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg" group-title="Movie & Series", 228. Warner TV
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_original.png" group-title="Movie & Series", Warner TV
 http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704632.jpeg" group-title="Movie & Series", 232. Paramount Channel
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/783549d6-9b0d-4b4a-ab42-3bdd932bf544.png" group-title="Movie & Series", Paramount Channel
 #http://203.154.177.124:8899/live/ch3/playlist.m3u8
 https://cdn6.goprimetime.info/feed/LC27/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704673.jpeg" group-title="Movie & Series", 236. True Thai Film
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png" group-title="Movie & Series", True Thai Film HD
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/sd-thaifilm.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704645.jpeg" group-title="Movie & Series", 239. True Asian Series HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_320.png" group-title="Movie & Series", True Asian Series HD
 http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="Movie & Series", HITS Movies
+https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704607.jpeg" group-title="Movie & Series", 233. Celestial Classic Movies
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="Movie & Series", Hits
+https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://console.celestialtiger.com/images/upload/693c8d81ab95b24b2549a1d9832efd42b6ff8e6c.png" group-title="Movie & Series", Kix (VN)
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/359808_preview.png" group-title="Movie & Series", Star Chinese Movies
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="Movie & Series", Celestial Classic Movies
 http://tv2.a-play.online/ccm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlfQpxGQxgHZwyWo34pKvzFZFHrhKQbsjZNg&usqp=CAU" group-title="Movie & Series", 235. TVB
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_320.png" group-title="Movie & Series", TVB
 http://ip2121.com:8081/live/TVB/playlist.m3u8
 #http://ip2121.com:8081/live/TVB/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png" group-title="Movie & Series", TVB ไทย
+#https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w2146933916.m3u8
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/KIX_Thailand.png" group-title="Movie & Series", Kix
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/ctbtv.png" group-title="Movie & Series", CTB HD
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704638.jpeg" group-title="Movie & Series", Star Chinese Movies
-http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704685.jpeg" group-title="Movie & Series", HITS Movies
-https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704689.jpeg" group-title="Movie & Series", Hits
-https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png" group-title="Movie & Series", Thrill
-http://203.154.177.124:8899/live/ch21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png" group-title="Movie & Series", BOX​ FILM
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png" group-title="Movie & Series", BOX FILM HD
 https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=20170606050150" group-title="Movie & Series", Thrill
+https://cdn6.goprimetime.info/feed/LC26/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg" group-title="Movie & Series", SUN MOVIE
 https://cdn6.goprimetime.info/feed/LC1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg" group-title="Movie & Series", SAMURAI MOVIE
-https://cdn6.goprimetime.info/feed/LC2/index.m3u8
-#https://cdn6.goprimetime.info/feed/LC26/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg" group-title="Movie & Series", SANOOK MOVIE
 https://cdn6.goprimetime.info/feed/LC53/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/ctbtv.png" group-title="Movie & Series", CTB TV
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8  
-
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvb.png" group-title="Movie & Series", TVB ไทย
-#https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w2146933916.m3u8
-https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg" group-title="Movie & Series", SAMURAI MOVIE
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
 
 ##EXTINF:-1 tvg-logo="http://coathailand.org/wp-content/uploads/2016/04/dKXRd.png" group-title="Digital TV", MONO Plus
 #https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
-
 
 # =======================================================
 #Entertainment
@@ -246,48 +226,57 @@ https://doofootball.livestream-cdn.com/iptv/sd-inside.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png" group-title="Entertainment", TVN
 https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704527.jpeg" group-title="Entertainment", 337. Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/886f43a6-7655-4bdc-a4c2-4824667a980f.png" group-title="Entertainment", Blue Ant Entertainment (VN)
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704533.jpeg" group-title="Entertainment", 338. Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f2e16412-98be-40a4-8690-74fd2ba059fc.png" group-title="Entertainment", Blue Ant Extreme (VN)
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FOX_wordmark-cyan.svg/400px-FOX_wordmark-cyan.svg.png" group-title="Entertainment", FOX Thai HD
+https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
+#http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+#https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/filefox-life-logopng-wikimedia-commons-fox-life-png-2000_420.png" group-title="Entertainment", FOX Life HD
+https://laos-tech-live.b-cdn.net/hd-foxlife_720/index.m3u8
+#http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="Entertainment", AXN HD
+http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
+#https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
+#https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704667.jpeg" group-title="Entertainment", 346. True Music HD
-http://160.119.77.116:8081/iptv/sd-tmusic.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png" group-title="Entertainment", 353. BBC Life Style
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="Entertainment", BBC Life Style
 http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
 #https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-mtvasia.png" group-title="Entertainment", MTV ASIA
+# =======================================================
+#Music
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png" group-title="Music", True Music HD
+http://160.119.77.116:8081/iptv/sd-tmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mtv-logo-png-transparent.png" group-title="Music", MTV ASIA
 #http://203.154.177.124:8899/live/ch4/playlist.m3u8
-https://cdn6.goprimetime.info/feed/LC3/index.m3u8
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/10978
 
-#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/hd-mtvlive.png" group-title="Entertainment", MTV LIVE HD
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1482.1508556245.png" group-title="Music", MTV LIVE HD
 #http://203.154.177.124:8899/live/ch2/playlist.m3u8
-https://cdn6.goprimetime.info/feed/LC31/index.m3u8
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/296
 
-#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-mtvchina.png" group-title="Entertainment", MTV China
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mtv-logo-png-transparent.png" group-title="Music", MTV China
 http://203.154.177.124:8899/live/ch16/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-chvinter.png" group-title="Entertainment", Channel V
+#EXTINF:-1 tvg-logo="https://jooxhd.com/uploads/images/tv/sd-chvinter.png" group-title="Music", Channel V
 https://cdn6.goprimetime.info/feed/LC14/index.m3u8
+#https://cdn6.goprimetime.info/feed/LC35/index.m3u8
 
 # =======================================================
 #Kids
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png" group-title="Kids", Cartoon Network HD Asia
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png" group-title="Kids", Cartoon Network HD
 https://laos-tech-live.b-cdn.net/sd-cartoonnetwork_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png" group-title="Kids", True Spark Play
@@ -298,27 +287,24 @@ https://laos-tech-live.b-cdn.net/sd-sparkplay_480/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-sparkjump_480/index.m3u8
 #http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/disney-xd-poster1602706149.jpeg" group-title="Kids", Disney Channel
+#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/animax-poster1602705979.jpeg" group-title="Kids", Animax
+https://cdn6.goprimetime.info/feed/LC38/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5393468-file2014-disney-channel-logosvg-wikimedia-commons-disney-channel-logo-png-792_365_preview.png" group-title="Kids", Disney Channel
 https://laos-tech-live.b-cdn.net/hd-disneyxd_720/index.m3u8
 #http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/disney-channel-poster1604392009.jpeg" group-title="Kids", 447. Disney Channel
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png" group-title="Kids", Nick Junior
 https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png" group-title="Kids", Boomerang
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_1.png" group-title="Kids", Boomerang
 https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png" group-title="Kids", Cartoon Club
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title="Kids", Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/animax-poster1602705979.jpeg" group-title="Kids", Animax
-https://cdn6.goprimetime.info/feed/LC38/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/03/4c26a640-ede0-11ea-bbdd-775d9efe2958_320.png" group-title="Kids", TOONEE
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/03/4c26a640-ede0-11ea-bbdd-775d9efe2958_original.png" group-title="Kids", TOONEE
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/playlist.m3u8
 #https://cdn6.goprimetime.info/feed/LC23/index.m3u8
 
