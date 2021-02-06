@@ -309,72 +309,69 @@ https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/playlist.m3u8
 #https://cdn6.goprimetime.info/feed/LC23/index.m3u8
 
 # =======================================================
-#Knowledge 555
+#Knowledge
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg" group-title="Knowledge", 555. Discovery Asia
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="Knowledge", Discovery
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png" group-title="Knowledge", Discovery Asia
 http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg" group-title="Knowledge", 556. History Channel HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png" group-title="Knowledge", History Channel HD
 http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8
 #https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg" group-title="Knowledge", 557. H2
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png" group-title="Knowledge", H2
 http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
 #https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg" group-title="Knowledge", 558. National Geographic (HD)
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png" group-title="Knowledge", National Geographic
 http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-expwild.png" group-title="Knowledge", 559. True Explore Wild
-http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-explife.png" group-title="Knowledge", 560. True Explore Life
-http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-expsci.png" group-title="Knowledge", 561. True Explore Sci
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png" group-title="Knowledge", True Explore Sci
 https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg" group-title="Knowledge", 562. Discovery Channel
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png" group-title="Knowledge", True Explore Wild
+http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/lovenature-4k-poster1602705702.jpeg" group-title="Knowledge", 563. Love Nature HD
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png" group-title="Knowledge", True Explore Life
+http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg" group-title="Knowledge", 566. TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/animal-planet-poster1602705496.jpeg" group-title="Knowledge", 567. Animal Planet
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png" group-title="Knowledge", Animal Planet
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png" group-title="Knowledge", 568. BBC Earth
-https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
-#https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg" group-title="Knowledge", Nat Geo WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Knowledge", Nat Geo WILD ดูไม่ได้
 https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/inside-crime-investigation.png" group-title="Knowledge", Crime Investigation
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png" group-title="Knowledge", BBC Earth
+#https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png" group-title="Knowledge", Love Nature 4K
+#http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Knowledge", Nat Geo WILD ดูไม่ได้
+https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/b7dfcc90-b550-11ea-b61c-7dd99cb3fb2c_320.png" group-title="Knowledge", TLC (VN)
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Knowledge", Crime Investigation
 #http://203.154.177.124:8899/live/ch23/playlist.m3u8
 https://cdn6.goprimetime.info/feed/LC43/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/saradeepsi.png" group-title="Knowledge", PSI SARADEE
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg" group-title="Knowledge", Samrujlok HD
+#EXTINF:-1 tvg-logo="http://www.nextsteptv.com/wp-content/uploads/2018/03/logo_SRL-01-26-03-.png" group-title="Knowledge", Samrujlok HD
 https://cdn6.goprimetime.info/feed/LC8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wishrichstudios.com/tv_online/uploads/images/thumb/20140731195834.443.1.png" group-title="Knowledge", Charoen Cable TV
+#EXTINF:-1 tvg-logo="https://www.jobbkk.com/upload/employer/0B/42B/00A42B/images/42027.png" group-title="Knowledge", Charoen Cable TV
 https://cdn6.goprimetime.info/feed/LC32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://f.ptcdn.info/688/071/000/qk52aj2hy151ctpqgpL-o.png" group-title="Knowledge", World Animal
-http://203.154.243.89:1201
-
-#EXTINF:-1 tvg-logo="https://f.ptcdn.info/688/071/000/qk52ajc92Lfrmx8zaT7-o.png" group-title="Knowledge", World Science
-http://203.154.243.32:8088/live/wsci/index.m3u8
 
 # =======================================================
 #Sport 600
