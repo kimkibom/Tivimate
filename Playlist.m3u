@@ -158,8 +158,8 @@ http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/783549d6-9b0d-4b4a-ab42-3bdd932bf544.png" group-title="Movie & Series", (X)Paramount Channel
-#http://203.154.177.124:8899/live/ch3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/783549d6-9b0d-4b4a-ab42-3bdd932bf544.png" group-title="Movie & Series", Paramount Channel
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png" group-title="Movie & Series", True Thai Film HD
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
