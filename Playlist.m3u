@@ -108,14 +108,15 @@ https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/03_Fox_Movies.png" group-title="Movie & Series", FOX Movies Premium
 #https://laos-tech-live.b-cdn.net/hd-foxpremium_720/index.m3u8
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+#https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/04_Fox_ACT_Movies.png" group-title="Movie & Series", FOX Action Movies
 #https://laos-tech-live.b-cdn.net/hd-foxaction_720/index.m3u8
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 #https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/05_Fox_Fam_Movies.png" group-title="Movie & Series", (X)FOX Family Movies
+#EXTINF:-1 tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/05_Fox_Fam_Movies.png" group-title="Movie & Series", FOX Family Movies
 https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
 #https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
@@ -157,9 +158,8 @@ http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/783549d6-9b0d-4b4a-ab42-3bdd932bf544.png" group-title="Movie & Series", Paramount Channel
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/783549d6-9b0d-4b4a-ab42-3bdd932bf544.png" group-title="Movie & Series", (X)Paramount Channel
 #http://203.154.177.124:8899/live/ch3/playlist.m3u8
-https://cdn6.goprimetime.info/feed/LC27/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png" group-title="Movie & Series", True Thai Film HD
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
@@ -180,8 +180,9 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/359808_preview.png" group-title="Movie & Series", Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="Movie & Series", (X)Celestial Classic Movies
-http://tv2.a-play.online/ccm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="Movie & Series", Celestial Classic Movies
+http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
+#https://laos-tech-live.b-cdn.net/sd-celestial_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_320.png" group-title="Movie & Series", TVB
 http://ip2121.com:8081/live/TVB/playlist.m3u8
@@ -417,6 +418,9 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 
 # =======================================================
 #Sport
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png" group-title="Sport", NFL Network
+https://laos-tech-live.b-cdn.net/hd-nfl_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/WWE_Network.png" group-title="Sport", (X)WWE
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
